@@ -1,0 +1,16 @@
+C:\Users\USER\Source\Repos\Sinhala_POS_VERSION\Sinhala_POS_VERSION\bin\Debug\Sinhala_POS_VERSION.exe.config
+C:\Users\USER\Source\Repos\Sinhala_POS_VERSION\Sinhala_POS_VERSION\bin\Debug\Sinhala_POS_VERSION.exe
+C:\Users\USER\Source\Repos\Sinhala_POS_VERSION\Sinhala_POS_VERSION\bin\Debug\Sinhala_POS_VERSION.pdb
+C:\Users\USER\Source\Repos\Sinhala_POS_VERSION\Sinhala_POS_VERSION\obj\Debug\Sinhala_POS_VERSION.csprojAssemblyReference.cache
+C:\Users\USER\Source\Repos\Sinhala_POS_VERSION\Sinhala_POS_VERSION\obj\Debug\Sinhala_POS_VERSION.Form1.resources
+C:\Users\USER\Source\Repos\Sinhala_POS_VERSION\Sinhala_POS_VERSION\obj\Debug\Sinhala_POS_VERSION.Properties.Resources.resources
+C:\Users\USER\Source\Repos\Sinhala_POS_VERSION\Sinhala_POS_VERSION\obj\Debug\Sinhala_POS_VERSION.csproj.GenerateResource.cache
+C:\Users\USER\Source\Repos\Sinhala_POS_VERSION\Sinhala_POS_VERSION\obj\Debug\Sinhala_POS_VERSION.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\Sinhala_POS_VERSION\Sinhala_POS_VERSION\obj\Debug\Sinhala_POS_VERSION.exe
+C:\Users\USER\Source\Repos\Sinhala_POS_VERSION\Sinhala_POS_VERSION\obj\Debug\Sinhala_POS_VERSION.pdb
+C:\Users\USER\Source\Repos\Sinhala_POS_VERSION\Sinhala_POS_VERSION\obj\Debug\Sinhala_POS_VERSION.FormCatagoryList.resources
+C:\Users\USER\Source\Repos\Sinhala_POS_VERSION\Sinhala_POS_VERSION\obj\Debug\Sinhala_POS_VERSION.FormBrandList.resources
+C:\Users\USER\Source\Repos\Sinhala_POS_VERSION\Sinhala_POS_VERSION\obj\Debug\Sinhala_POS_VERSION.FormProductList.resources
+C:\Users\USER\Source\Repos\Sinhala_POS_VERSION\Sinhala_POS_VERSION\obj\Debug\Sinhala_POS_VERSION.FormBrand.resources
+C:\Users\USER\Source\Repos\Sinhala_POS_VERSION\Sinhala_POS_VERSION\obj\Debug\Sinhala_POS_VERSION.FormCatagory.resources
+C:\Users\USER\Source\Repos\Sinhala_POS_VERSION\Sinhala_POS_VERSION\obj\Debug\Sinhala_POS_VERSION.FormProduct.resources
